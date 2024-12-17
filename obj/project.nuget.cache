@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kyTa9o0K8G0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Th3at\\source\\repos\\Week14OOP\\Week14_OOP\\Week14OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Th3at\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Th3at\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Th3at\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Th3at\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}
